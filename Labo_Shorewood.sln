@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labo_Shorewood", "Labo_Shorewood\Labo_Shorewood.csproj", "{8F2102B2-4B10-4B97-9E5C-DC780F36E206}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ECB54C6B-DA62-4911-8B93-30815CDABA07} = {ECB54C6B-DA62-4911-8B93-30815CDABA07}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labo_Shorewood.Models", "Labo_Shorewood.Models\Labo_Shorewood.Models.csproj", "{ECB54C6B-DA62-4911-8B93-30815CDABA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2102B2-4B10-4B97-9E5C-DC780F36E206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2102B2-4B10-4B97-9E5C-DC780F36E206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2102B2-4B10-4B97-9E5C-DC780F36E206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2102B2-4B10-4B97-9E5C-DC780F36E206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB54C6B-DA62-4911-8B93-30815CDABA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB54C6B-DA62-4911-8B93-30815CDABA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB54C6B-DA62-4911-8B93-30815CDABA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB54C6B-DA62-4911-8B93-30815CDABA07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B64D985-94B2-43C0-ADDC-0DF4EFEA9CB8}
+	EndGlobalSection
+EndGlobal
